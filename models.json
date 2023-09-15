@@ -1,0 +1,28 @@
+{
+    "users": {
+        "name": "string",
+        "password": "string",
+        "email": "string",
+        "phone": "string",
+        "shop": "number",
+        "avatar": "string"
+    },
+
+    "class": {
+        "number": "number",
+        "adress": "string",
+        "comp": "number",
+        "name": "string",
+        "phone": "string",
+        "email": "string",
+        "photo": "string"
+    },
+
+    "booking": {
+        "user": {},
+        "class": {},
+        "seatNumber": "number",
+        "date": "number",
+        "time": "number"
+    }
+}
